@@ -1,0 +1,12 @@
+D:\Apps\SafeFolder\SafeFolder\bin\Debug\SafeFolder.exe.config
+D:\Apps\SafeFolder\SafeFolder\obj\Debug\SafeFolder.csprojResolveAssemblyReference.cache
+D:\Apps\SafeFolder\SafeFolder\obj\Debug\SafeFolder.MainWindow.resources
+D:\Apps\SafeFolder\SafeFolder\obj\Debug\SafeFolder.csproj.GenerateResource.Cache
+D:\Apps\SafeFolder\SafeFolder\bin\Debug\SafeFolder.exe
+D:\Apps\SafeFolder\SafeFolder\bin\Debug\SafeFolder.pdb
+D:\Apps\SafeFolder\SafeFolder\obj\Debug\SafeFolder.Properties.Resources.resources
+D:\Apps\SafeFolder\SafeFolder\obj\Debug\SafeFolder.exe
+D:\Apps\SafeFolder\SafeFolder\obj\Debug\SafeFolder.pdb
+C:\Users\zerow\OneDrive\문서\GitHub\EncryptModule\SafeFolder\bin\Debug\SafeFolder.exe.config
+C:\Users\zerow\OneDrive\문서\GitHub\EncryptModule\SafeFolder\obj\Debug\SafeFolder.exe
+C:\Users\zerow\OneDrive\문서\GitHub\EncryptModule\SafeFolder\obj\Debug\SafeFolder.pdb
